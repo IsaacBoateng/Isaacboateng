@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # WHAT'S UP WORLD <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Isaac Owusu Boateng here, a remote Android Engineer.
-I am a self-driven Android Kotlin Programmer. I love to code and review code for fun.
+I am a self-driven Android Kotlin Programmer. I love to code and review code for fun.You can find me on  [![LinkedIn][3.2]][2]
 - 🌱 I’m currently learning Machine Learning on Udacity
 - 📫 How to reach me: kace029@gmail.com
 
