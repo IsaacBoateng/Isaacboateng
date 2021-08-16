@@ -27,13 +27,13 @@ I am a self-driven Android Kotlin Programmer. I love to code and review code for
 
 
 
-<a href="https://github.com/Isaacoboateng/iob">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Isaacoboateng&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Isaac's GitHub Stats" />
+<a href="https://github.com/Isaacboateng/iob">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Isaacboateng&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Isaac's GitHub Stats" />
 </a>
 
 <!-- links to your social media accounts -->
 
-[1]: https://github.com/Isaacoboateng/
+[1]: https://github.com/Isaacboateng/
 [2]: https://www.linkedin.com/in/isaac-boateng-6305461a0/
 
 <!-- links to social media icons -->
