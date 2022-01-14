@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 
 # WHAT'S UP WORLD <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Isaac Owusu Boateng here, a remote Software Engineer.
-I am a self-driven Software developer,With years of development experience in  Android Kotlin and Blockchain development. I love to code and review code for fun. You can find me on  [![LinkedIn][3.2]][2]
+I am a self-driven Software developer, With years of development experience in  Android Kotlin and Blockchain development. I love to code and review code for fun. You can find me on  [![LinkedIn][3.2]][2]
 - 🌱 I’m currently learning Machine Learning on Udacity
 - 📫 How to reach me: kace029@gmail.com
 
 
 ## Languages and Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://soliditylang.org/" target="_blank"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_solidity.svg" alt="solidity" width="40" height="40"/> </a>
+</p>
 
-## &#x1f4c8; GitHub Stats
+
+## &#x1f4c8; GitHub Stats 
 
 
 
