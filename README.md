@@ -23,7 +23,7 @@ I am a self-driven Software developer, with years of development experience in  
 
 ## Languages and Tools
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://soliditylang.org/" target="_blank"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_solidity.svg" alt="solidity" width="40" height="40"/> </a> <a href="https://www.javascript.com/ " target="_blank"> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="javascript" width="40" height="40"/> </a>
- <a href="https://ethereum.org/" target="_blank"> <img src="https://www.cleanpng.com/png-ethereum-cryptocurrency-bitcoin-blockchain-erc20-a-3146646/" alt="ethereum" width="40" height="40"/> </a>
+ <a href="https://ethereum.org/" target="_blank"> <img src="https://en.wikipedia.org/wiki/Ethereum#/media/File:Ethereum-icon-purple.svg/" alt="ethereum" width="40" height="40"/> </a>
  </p>
 
 
