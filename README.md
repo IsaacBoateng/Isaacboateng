@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Isaac Boateng here, a remote Software Engineer.
 I am a self-driven Software developer, with years of development experience in  Android Kotlin and Blockchain development. I love to code and review code for fun. You can find me on  [![LinkedIn][3.2]][2]
 
--🌱 I’m currently learning Rust and Golang
+- 🌱 I’m currently learning Rust and Golang
 - 🔭 I’m currently working on Dapp projects.
 - ⚡ Fun fact: Am a fast learner and cool under pressure.
 - 📫 How to reach me: kace029@gmail.com, ioblld3@gmail.com
