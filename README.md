@@ -29,6 +29,7 @@ I am a self-driven Software developer, with years of development experience in  
  </p> 
 
 
+<! --
 ## &#x1f4c8; GitHub Stats 
 
 
@@ -36,6 +37,7 @@ I am a self-driven Software developer, with years of development experience in  
 <a href="https://github.com/Isaacboateng/iob">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Isaacboateng&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Isaac's GitHub Stats" />
 </a>
+-->
 
 <!-- links to your social media accounts -->
 
