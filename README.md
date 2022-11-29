@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # WHAT'S UP WORLD 
 Isaac Boateng here, a remote Software Engineer.
-I am a self-driven Software developer, with years of development experience in  Android Kotlin and Blockchain development. I love to code and review code for fun. You can find me on  [![LinkedIn][3.2]][2]
+I am a self-driven Software developer, with years of development experience in  FullStack Web development. I love to code and review code for fun. You can find me on  [![LinkedIn][3.2]][2]
 
 - 🔭 I’m currently working on Dapp projects.
 - ⚡ Fun fact: Am a fast learner and cool under pressure.
